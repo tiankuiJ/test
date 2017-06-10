@@ -1,4 +1,8 @@
 asda
 asdaaaa
 sss
+<<<<<<< HEAD
 bossnnnn no
+=======
+bossnnnn test
+>>>>>>> feature1
